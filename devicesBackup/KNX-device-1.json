@@ -1,0 +1,1 @@
+{"created":1715865631309,"modified":1715865805728,"id":"ff1db583-f16c-4172-b2f5-6267621ab07f","name":"KNX-device-1","description":"Leuchte 1","adminState":"UNLOCKED","operatingState":"UP","serviceName":"device-knx","profileName":"KNX-Leuchte-1","protocols":{"knx":{"Endpoint":"192.168.0.175:3671"}}}
